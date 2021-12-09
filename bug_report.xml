@@ -4,13 +4,13 @@
   <Title>Bug Report</Title>
   <Description>null</Description>
   <Preconditions>null</Preconditions>
-  <Steps to reproduce>
+  <Steps_to_reproduce>
     <step1>null</step1>
     <step2>null</step2>
     <step3>null</step3>
- </Steps to reproduce>
-<Actual result>null</Actual result>
-<Expected result>null</Expected result>
+ </Steps_to_reproduce>
+<Actual_result>null</Actual_result>
+<Expected_result>null</Expected_result>
 <Severity>minor</Severity>
 <Priority>medium</Priority>
 <Environment>null</Environment>

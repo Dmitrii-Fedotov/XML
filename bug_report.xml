@@ -1,1 +1,20 @@
-
+<?xml version="1.0"?>
+<Bug_report>
+  <ID>4245</ID>
+  <Title>Bug Report</Title>
+  <Description>null</Description>
+  <Preconditions>null</Preconditions>
+  <Steps to reproduce>
+    <step1>null</step1>
+    <step2>null</step2>
+    <step3>null</step3>
+ </Steps to reproduce>
+<Actual result>null</Actual result>
+<Expected result>null</Expected result>
+<Severity>minor</Severity>
+<Priority>medium</Priority>
+<Environment>null</Environment>
+<Version>null</Version>
+<Attachment>null</Attachment>
+<Status>testing</Status>
+</Bug_report>
